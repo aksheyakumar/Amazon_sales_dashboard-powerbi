@@ -10,7 +10,7 @@ An interactive Power BI dashboard designed to provide actionable insights into A
 ## 2. Description 
 
 * **Total Sales:** Generates **91.83M** in total sales revenue.
-* **Category Distribution:** **Electronics** is the largest category (**16.85%**), followed by Sports, Books, Home & Kitchen, Toys & Games, and Clothing. *Note: Profit margins across all categories remain relatively low.*
+* **Category Distribution:** **Electronics** is the largest category (**16.85%**), followed by Sports, Books, Home & Kitchen, Toys & Games, and Clothing. 
 * **Order Status:** **74.69%** of orders have been successfully **Delivered**, **15%** are **Shipped**, and a very low percentage of products are returned.
 * **Payment Methods:** **Credit Cards** dominate with **35%** of total transactions, followed by Debit Cards (**20.02%**) and UPI (**15.07%**).
 
