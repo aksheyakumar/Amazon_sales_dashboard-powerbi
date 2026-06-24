@@ -32,6 +32,6 @@ Source : www.kaggle.com (Amazon_Sales Dataset)
 
 5.Screenshots :
 
-link : [Dashboard Preview] (https://github.com/aksheyakumar/Netflix_dashboad-powerbi/blob/main/Screenshot%202026-06-23%20203247.png)
+link : [Dashboard Preview] (https://github.com/aksheyakumar/Amazon_sales_dashboard-powerbi/blob/main/Screenshot%202026-06-23%20210252.png)
 
-[Analysis preview] (https://github.com/aksheyakumar/Netflix_dashboad-powerbi/blob/main/Screenshot%202026-06-23%20203325.png)
+[Analysis preview] ()
