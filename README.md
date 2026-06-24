@@ -34,4 +34,5 @@ Source : www.kaggle.com (Amazon_Sales Dataset)
 
 link : [Dashboard Preview] (https://github.com/aksheyakumar/Amazon_sales_dashboard-powerbi/blob/main/Screenshot%202026-06-23%20210252.png)
 
-[Analysis preview] ()
+[Analysis preview] (https://github.com/aksheyakumar/Amazon_sales_dashboard-powerbi/blob/main/Screenshot%202026-06-23%20210312.png),
+()
